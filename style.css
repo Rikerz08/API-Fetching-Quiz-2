@@ -240,7 +240,7 @@ footer {
   height: 30px;
 }
 
-.song-title {
+#artist-name {
   display: flex;
   justify-content: left;
   align-items: center;
@@ -248,7 +248,7 @@ footer {
   color: white;
   font-size: 10px;
 }
-.artist-name {
+#song-title {
   display: flex;
   justify-content: left;
   align-items: center;
