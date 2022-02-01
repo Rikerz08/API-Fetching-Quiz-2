@@ -1,3 +1,5 @@
+let songTitle = document.getElementById;
+
 fetch("https://api.lyrics.ovh/v1/Playboi Carti/Stop Breathing")
   .then(function (response) {
     console.log("Helloooo   ");
