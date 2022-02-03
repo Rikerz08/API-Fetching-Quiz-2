@@ -256,14 +256,7 @@ footer {
   color: white;
   font-size: 10px;
 }
-.scroll-div {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  overflow-y: scroll;
-  display: flex;
-  font-size: 20px;
-}
+
 .flex-lyrics-container {
   display: flex;
   justify-content: center;
